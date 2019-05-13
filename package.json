@@ -1,0 +1,29 @@
+{
+   "name": "graphql-server-apollo2",
+   "version": "1.0.0",
+   "description": "",
+   "main": "start.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [],
+   "author": "Kamel Romdhani",
+   "license": "ISC",
+   "dependencies": {
+      "apollo-server": "^2.1.0",
+      "apollo-server-express": "^2.1.0",
+      "express": "^4.16.3",
+      "graphql": "^0.13.2",
+      "graphql-subscriptions": "^0.5.8",
+      "graphql-tools": "^1.0.0",
+      "http": "0.0.0",
+      "notarealdb": "^0.2.2",
+      "subscriptions-transport-ws": "^0.9.12"
+   },
+   "devDependencies": {
+      "@babel/core": "^7.4.4",
+      "@babel/preset-env": "^7.4.4",
+      "@babel/register": "^7.4.4",
+      "nodemon": "1.17.1"
+   }
+}

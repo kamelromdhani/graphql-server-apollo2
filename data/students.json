@@ -1,0 +1,74 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Mohtashim",
+    "lastName": "Mohammad",
+    "email": "mohtashim.mohammad@tutorialpoint.org",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "kannan.sudhakaran@tutorialpoint.org",
+    "firstName": "Kannan",
+    "lastName": "Sudhakaran",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "kiran.panigrahi@tutorialpoint.org",
+    "firstName": "Kiran",
+    "lastName": "Panigrahi",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "SkK7D7enV",
+    "collegeId": "col-2",
+    "firstName": "Tim",
+    "lastName": "George"
+  },
+  {
+    "id": "ryjpDBb2N",
+    "collegeId": "col-4",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  },
+  {
+    "id": "H1JgxLWnE",
+    "collegeId": "col-4",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  },
+  {
+    "id": "B19pss-nV",
+    "collegeId": "col-4",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  },
+  {
+    "id": "ryEs92U34",
+    "collegeId": "col-9",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  },
+  {
+    "id": "r1Vuj3Un4",
+    "collegeId": "col-8",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  },
+  {
+    "id": "Byj733U3V",
+    "collegeId": "col-10",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  },
+  {
+    "id": "ryg533U2V",
+    "collegeId": "col-11",
+    "firstName": "kamel",
+    "lastName": "Romdhani"
+  }
+]
