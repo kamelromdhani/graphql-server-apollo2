@@ -11,31 +11,13 @@
  endpoint : http://localhost:9000/graphql
 
  ## Query example
-
- {
-  students{
-    id
-    firstName
-    lastName
-  }
-}
+![](images/2019-05-13_13h39_24.png)
+ 
 
 ## Mutation example
-
-mutation {
-   addStudent_returns_object(collegeId:"col-1",firstName:"kamel",lastName:"Romdhani"){
-    id
-    lastName
-    firstName
-  }
-}
+![](images/2019-05-13_13h38_31.png)
 
 ## Subscription example
 
-subscription subTest {
-  StudentAdded{
-    id
-    lastName
-    firstName
-  }
-}
+![](images/2019-05-13_13h37_28.png)
+![](images/2019-05-13_13h38_39.png)
